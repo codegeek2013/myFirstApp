@@ -18,5 +18,7 @@
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         Swarnava Sarkar 
     </author>
+    
+    <gap:plugin name="com.phonegap.plugins.barcodescanner" />
 
 </widget>
